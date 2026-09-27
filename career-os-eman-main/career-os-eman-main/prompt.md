@@ -1,0 +1,2 @@
+like career-os  create a website for user to learn for my friend eman the folder i already created is career-os-eman she wants to be a software infrastructure engineer and she wants to learn about software infrastructure engineering her website should look like for user and also make a track of what has been learned similar as "career-os". her syllabus is in the folder "career-os-eman/README.md"
+to deploy her github credentials are in the folder "career-os-eman/github_credentials"
